@@ -28,7 +28,7 @@ docker build -t aem-publisher .
 
 To Run
 ```
-cd aem-author
+cd aem-publisher
 docker run -p 4503:4503 aem-publisher
 ```
 
@@ -37,7 +37,7 @@ docker run -p 4503:4503 aem-publisher
 To build image
 
 ```
-cd aem-Dispacher
+cd aem-dispacher
 docker build -t aem-dispacher .
 ```
 
