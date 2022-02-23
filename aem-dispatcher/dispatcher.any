@@ -15,7 +15,7 @@
       {
       /rend01
         {
-        /hostname "aem-publish"
+        /hostname "publisher"
         /port "4503"
         }
       }
