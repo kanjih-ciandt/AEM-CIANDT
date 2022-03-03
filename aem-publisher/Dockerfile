@@ -1,5 +1,5 @@
 # Use the previously created aem-base-image
-FROM gcr.io/phoenix-cit/aem-base-image
+FROM gcr.io/phoenix-cit/aem-base-image-65
 
 # Expose AEM author in port 4503
 EXPOSE 4503
